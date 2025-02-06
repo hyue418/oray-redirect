@@ -1,4 +1,4 @@
-# 花生壳自动跳转
+# 花生壳自动跳转 油猴脚本
 [![GitHub license](https://img.shields.io/github/license/hyue418/oray-redirect.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/hyue418/oray-redirect)
 [![GitHub Star](https://img.shields.io/github/stars/hyue418/oray-redirect.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/hyue418/oray-redirect)
 [![GitHub Fork](https://img.shields.io/github/forks/hyue418/oray-redirect.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/hyue418/oray-redirect)
