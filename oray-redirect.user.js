@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         花生壳自动跳转
 // @namespace    https://github.com/hyue418
-// @version      1.0.4
+// @version      1.0.5
 // @description  自动跳过恼人的花生壳中间页
 // @author       hyue418
 // @icon         https://passport.oray.com/favicon.ico
