@@ -7,6 +7,7 @@
 // @icon         https://passport.oray.com/favicon.ico
 // @match        *
 // @downloadURL  https://ghfast.top/https://raw.githubusercontent.com/hyue418/oray-redirect/master/oray-redirect.user.js
+// @updateURL    https://ghfast.top/https://raw.githubusercontent.com/hyue418/oray-redirect/master/oray-redirect.user.js
 // ==/UserScript==
 
 (function() {
