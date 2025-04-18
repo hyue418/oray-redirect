@@ -5,7 +5,7 @@
 // @description  自动跳过恼人的花生壳中间页
 // @author       hyue418
 // @icon         https://passport.oray.com/favicon.ico
-// @match        http*://*/*r
+// @match        http*://*/*
 // @downloadURL  https://ghfast.top/https://raw.githubusercontent.com/hyue418/oray-redirect/master/oray-redirect.user.js
 // @updateURL    https://ghfast.top/https://raw.githubusercontent.com/hyue418/oray-redirect/master/oray-redirect.user.js
 // ==/UserScript==
