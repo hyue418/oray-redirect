@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         花生壳自动跳转
 // @namespace    https://github.com/hyue418
-// @version      1.0.5
+// @version      1.0.6
 // @description  自动跳过恼人的花生壳中间页
 // @author       hyue418
 // @icon         https://passport.oray.com/favicon.ico
@@ -12,10 +12,12 @@
 
 (function() {
     'use strict';
-    setTimeout(() => {
-    var searchText = "如需去除此页，请联系管理员升级服务版本";
-    if (document.body.innerText.includes(searchText)) {
-        window.location.href = window.location.origin;
-    }
-}, 200);
+    const intervalId = setInterval(() => {
+        if (document.title.includes("花生壳")) {
+            var searchText = "如需去除此页，请联系管理员升级服务版本";
+            if (document.body.innerText.includes(searchText)) {
+                window.location.href = window.location.origin;
+            }
+        }
+    }, 300);
 })();
